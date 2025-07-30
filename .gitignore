@@ -1,25 +1,63 @@
-# CakePHP 3
+# Laravel padrão
+/vendor
+/node_modules
+/public/storage
+/public/hot
+/public/build
+/storage/*.key
+/storage/pail
+/storage/logs
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/app/public
+/bootstrap/cache/*.php
 
-/vendor/*
-/config/app.php
+# Arquivos sensíveis e de ambiente
+.env
+.env.*
+.env.backup
+.env.production
+.auth.json
+Homestead.json
+Homestead.yaml
+composer.lock
+.phpunit.result.cache
+/.phpunit.cache
 
-/tmp/cache/models/*
-!/tmp/cache/models/empty
-/tmp/cache/persistent/*
-!/tmp/cache/persistent/empty
-/tmp/cache/views/*
-!/tmp/cache/views/empty
-/tmp/sessions/*
-!/tmp/sessions/empty
-/tmp/tests/*
-!/tmp/tests/empty
+# Docker
+docker-compose.override.yml
+docker-compose.local.yml
+docker-compose.dev.yml
+docker-compose.prod.yml
+docker-compose.*.yml
+.docker/
+.dockerignore
+docker-data/
 
-/logs/*
-!/logs/empty
+# Node e JS
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
 
-# CakePHP 2
+# IDEs e ferramentas
+.idea/
+.vscode/
+.fleet/
+.zed/
+.nova/
+.phpactor.json
+.phpstorm.meta.php
 
-/app/tmp/*
-/app/Config/core.php
-/app/Config/database.php
-/vendors/*
+# Sistema e temporários
+*.log
+*.tmp
+*.bak
+*.swo
+*.swp
+*.DS_Store
+*.Thumbs.db
+
+# Testes e cobertura
+coverage/
