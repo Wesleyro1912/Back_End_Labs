@@ -103,6 +103,5 @@ Este projeto está sob a licença [MIT](LICENSE).
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Wesley Rodrigues — [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+Desenvolvido por Wesley Rodrigues — [LinkedIn](https://www.linkedin.com/in/wesleyrodriguesmoreira)
 
-```
