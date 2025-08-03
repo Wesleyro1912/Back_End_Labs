@@ -106,6 +106,3 @@ Este projeto está sob a licença [MIT](LICENSE).
 Desenvolvido por Wesley Rodrigues — [LinkedIn](https://www.linkedin.com/in/seu-perfil)
 
 ```
-
-Se quiser, posso criar e subir esse arquivo direto em um repositório `.zip`, ou já incluir uma estrutura inicial do projeto Laravel com esse `README.md`. Deseja isso?
-```
